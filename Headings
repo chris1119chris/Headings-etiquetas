@@ -1,0 +1,32 @@
+ </head>
+ <body>
+     <h1>Heading H1</h1>
+     <p> Es una etiqueta que se utiliza para identificar aquellas frases 
+     <p> Es una etiqueta o mejor conocidos como encabezados 
+         implementan 6 niveles de mayo a menor en escala de 
+         H1 hasta el H6.
+         Estos se utiliza para identificar aquellas frases 
+         que conforman el título principal de un contenido de una 
+         página web</p>
+     <h2> Heading H2</h2> 
+     <p>Se utilizan para marcar las diferentes secciones de un
+        texto e indicar los subtítulos que tiene el artículo
+          web.</p>   
+
+ </body>
+     <p>Se utiliza para marcar las diferentes secciones de un
+        texto e indicar los subtítulos que tiene el artículo web.</p>   
+      <h3>Heading H3, H4, H5, H6</h3>    
+      <p> Representan los
+           subtítulos que se encuentran presentes dentro de H1, 
+           aqui un ejemplo </p>
+
+           <h1>Heading level 1</h1>
+           <h2>Heading level 2</h2>
+           <h3>Heading level 3</h3>
+           <h4>Heading level 4</h4>
+           <h5>Heading level 5</h5>
+           <h6>Heading level 6</h6>
+
+        </body>
+</html>
