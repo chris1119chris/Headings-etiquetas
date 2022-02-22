@@ -1,0 +1,63 @@
+.contenedor{
+
+    text-align: justify;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
+
+.excercise{
+    flex-direction:row;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200vh;
+    height: 20vh;
+}    
+
+.color-a{
+    color: rgb(55, 205, 216); 
+}
+
+p{
+    width: 30%;
+}
+
+h1{
+    width: 30%;
+    text-align: center;
+}
+
+.data{
+    width: 30%;
+    text-align:right;
+    
+}
+
+.tag{
+    text-align:start;
+    justify-content: left;
+
+}
+
+.color-p{
+    color:deeppink;
+}
+.end{
+
+    font-size: 13.5;
+}
+
+.item{
+    background-color: WHITE;
+    border: 1px solid black;
+    margin-top: 1%;
+    width: 15%;
+    height: auto;
+    text-align:center;
+}
+
