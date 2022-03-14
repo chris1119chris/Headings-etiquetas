@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <title>Formularios</title>
+    
+    <link  rel="stylesheet" href="form.css"/>
+    <!-- BOOTSTRAP -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    
+    <!-- Iconos de Fontawesome-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/solid.css">
+    <script src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+    <link rel="stylesheet" type="text/css" href="static/css/index.css" th:href="@{/css/index.css}">
+
+    </head>
+    <body>
+        <!-- Clase para mantener los datos del recuadro centrados-->
+        <div class="modal-dialog text-center">
+
+            <!--Clase para dividir la pantalla y quede centrado -->
+            <div class="col-sm-8 main-section">
+                
+                <!-- Clase para mantener los datos dentro del recuadro-->
+                <div class="modal-content">
+                    <div class="col-12 user-img">
+                        <img  src="img/estesi.png"/>
+                    </div>
+                    <form class="col-12"> 
+                        <div class="form-group" id="user-group">
+                            <input type="text" class="form-control" placeholder="Nombre de usuario"/>
+                        </div>
+                        <div class="form-group" id="password-group">
+                            <input type="password" class="form-control" placeholder="Contrasena"/>
+
+                        </div>
+                        <button type="submit" class="btn-btn-dark"><i class="fas fa-sign-in-alt"></i>  Ingresar </button>
+                    </form>
+                    <div class="col-12 forgot">
+                        <input type="checkbox" name="casilla"> Recordar contrasena
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
