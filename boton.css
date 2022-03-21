@@ -1,0 +1,14 @@
+.main-section{
+    margin: 0 auto;
+    margin-top: 10%;
+    padding:0 ;
+}
+
+body{
+    background: url(img/bgb.png) no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    background-color: aliceblue;
+}
