@@ -1,0 +1,6 @@
+.error-input{
+    border: 1px solid red;
+}
+.correct-input{
+    border: 1px solid rgb(81, 255, 0);
+}
